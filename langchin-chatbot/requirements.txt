@@ -46,3 +46,5 @@ streamlit>=1.50.0
 # Utilities
 ipywidgets>=8.1.7
 jupyter>=1.1.1
+
+sqlalchemy[asyncio]>=2.0
