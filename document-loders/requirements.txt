@@ -51,3 +51,10 @@ jupyter>=1.1.1
 sqlalchemy[asyncio]>=2.0
 pymupdf>=1.24
 tiktoken>=0.7
+unstructured[all-docs]
+nltk>=3.9
+openpyxl
+python-pptx
+python-magic-bin
+markitdown[all]
+docling

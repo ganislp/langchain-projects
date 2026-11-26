@@ -1,0 +1,5 @@
+
+
+The context is a SpiceJet job description for a Data Scientist. The role focuses on using data, statistics, machine learning, and AI to increase revenue, reduce costs, and improve customer satisfaction. The data scientist will work with product, design, and engineering teams to extract relevant data, build predictive models, communicate insights, and deploy models in production.
+
+Required qualifications include a bachelor’s degree in Data Science, Computer Science, Statistics, Applied Mathematics, or a related field, plus 3+ years of data science experience. The candidate should be proficient in machine learning, data mining, statistical analysis, predictive modeling, and tools such as Python, R, Excel, Tableau, and SQL. Preferred qualifications include a master’s degree and 2+ years of project management experience. The role also requires strong problem-solving, coding, project management, execution, communication, and data-driven decision-making skills.
